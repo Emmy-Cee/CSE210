@@ -16,6 +16,7 @@ class Program
             Console.WriteLine($"\n--- Order {i + 1} ---");
 
             // Customer info
+            Console.WriteLine("Enter your billing address .....");
             Console.Write("Customer Name: ");
             string name = Console.ReadLine();
 
