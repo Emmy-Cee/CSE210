@@ -1,7 +1,6 @@
 // Exceed requirements: Allow users to input customer and product information dynamically
 
 using System;
-
 class Program
 {
     static void Main(string[] args)
